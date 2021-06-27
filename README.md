@@ -7,3 +7,5 @@ This code is the 1st Place Solution of the following competition held on the dat
 このコードの全体像の図解等を以下のブログに掲載いたしましたので、必要に応じてご参照ください。
 - 【1位解法】ProbSpace開催「プロ野球データ分析チャレンジ 」の振り返り。 
 -  https://oregin-ai.hatenablog.com/entry/2021/06/23/223054
+## License
+MIT
